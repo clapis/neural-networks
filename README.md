@@ -1,7 +1,8 @@
  ## fastai [↬](https://course.fast.ai/ )
 01. [Birds vs Forests](./fastai/01/birds.ipynb)
 02. [Bear Classifier Gradio App](./fastai/02/bears.ipynb)
-
+03. [MNIST Digit Classifier](./fastai/03/mnist.ipynb)
+04. [Natural Language Processing](./fastai/04/nlp.ipynb)
 
 
 ## karpathy [↬](https://karpathy.ai/zero-to-hero.html)
