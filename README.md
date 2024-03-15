@@ -10,3 +10,4 @@
 01. [Micrograd](./karpathy/01/micrograd.ipynb)
 02. [Makemore Bigram](./karpathy/02/makemore_bigram.ipynb)
 03. [Makemore MLP](./karpathy/03/makemore_mlp.ipynb)
+04. [Makemore Activation & BatchNorm](./karpathy/04/makemore_batchnorm.ipynb)
